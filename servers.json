@@ -1,0 +1,10 @@
+{
+    "staging_dashboard": {
+        "ip": "xx.xx.xx.xx",
+        "name": "staging"
+    },
+    "production_dashboard": {
+        "ip": "xx.xx.xx.xx",
+        "name": "production"
+    }
+}
